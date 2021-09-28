@@ -1,5 +1,5 @@
 require('dotenv').config()
-const {myAvatar} = requires('./data.js');
+const {myAvatar} = require('./data.js');
 const express= require('express');
 const app = express();
 
