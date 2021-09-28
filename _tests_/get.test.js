@@ -1,6 +1,6 @@
-const { app } = require('../server.js');
+const { app } = require('../served.js');
 const supertest = require('supertest');
-const { describe } = require('yargs');
+
 const request = supertest(app);
 
 describe('app routes',() =>{
