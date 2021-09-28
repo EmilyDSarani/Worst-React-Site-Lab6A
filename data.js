@@ -56,3 +56,4 @@ const myAvatar = [
     title: 'Lemur' 
 }, 
 ]
+module.exports(myAvatar);
