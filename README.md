@@ -15,3 +15,5 @@ Suki- https://comicvine1.cbsistatic.com/uploads/scale_super/11138/111385676/7019
 Appa- https://static.wikia.nocookie.net/avatar/images/b/b9/Lent%C3%A4v%C3%A4_Appa.png/revision/latest?cb=20150213084632&path-prefix=fi
 
 Momo-https://static.wikia.nocookie.net/avatar/images/8/80/Momo_staring.png/revision/latest/top-crop/width/360/height/360?cb=20200802080013
+
+Going to try to add in a commit
