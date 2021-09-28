@@ -1,6 +1,5 @@
 const { app } = require('../served.js');
 const supertest = require('supertest');
-
 const request = supertest(app);
 
 describe('app routes',() =>{
