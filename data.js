@@ -52,7 +52,7 @@ const myAvatar = [
     id: 8,
     name:'Momo',
     element: 'Air',
-    img: 'https://static.wikia.nocookie.net/avatar/images/8/80/Momo_staring.png/revision/latest/top-crop/width/360/height/360?cb=20200802080013',
+    img: 'https://media4.giphy.com/media/hfT4eNf5EXeuY/giphy.gif',
     title: 'Lemur' 
 }, 
 ]
