@@ -10,7 +10,7 @@ app.get('/avatar-characters', (req, res) => {
     res.json(myAvatar)
 });
 
-app.get('/avatar-characters:id', (req, res) => {
+app.get('/avatar-characters/:id', (req, res) => {
     const mainCharacter = myAvatar.find(character => character.id === Number(req.params.id));
     res.json({mainCharacter});
     });
