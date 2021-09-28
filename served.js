@@ -5,7 +5,7 @@ const app = express();
 
 const port = 3000
 
-let port = process.env.PORT || 3000;
+port = process.env.PORT || 3000;
 
 app.get('/avatar-characters', (req,res)=>{
     res.json(myAvatar)
