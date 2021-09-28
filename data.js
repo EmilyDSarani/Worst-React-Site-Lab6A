@@ -3,7 +3,7 @@ const myAvatar = [
     id: 1,
     name:'Aang',
     element: 'Air',
-    img: 'https://static.wikia.nocookie.net/avatar/images/a/ae/Aang_at_Jasmine_Dragon.png/revision/latest?cb=20130612174003',
+    img: 'https://i.insider.com/5ebdbc8c3ad8612a1c7aa143?width=856&format=jpeg',
     title: 'Avatar' 
    }, 
    {
@@ -45,14 +45,14 @@ const myAvatar = [
     id: 7,
     name:'Appa',
     element: 'Air',
-    img: 'https://static.wikia.nocookie.net/avatar/images/b/b9/Lent%C3%A4v%C3%A4_Appa.png/revision/latest?cb=20150213084632&path-prefix=fi',
+    img: 'https://preview.redd.it/nx50st82y8351.png?auto=webp&s=f31cdd2db86f73ee5245bf8462fa7df187119254',
     title: 'Bison' 
 }, 
 {
     id: 8,
     name:'Momo',
     element: 'Air',
-    img: 'https://media4.giphy.com/media/hfT4eNf5EXeuY/giphy.gif',
+    img: 'https://pbs.twimg.com/media/Eb78V98WsAU4-4G.png',
     title: 'Lemur' 
 }, 
 ]

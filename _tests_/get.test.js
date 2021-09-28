@@ -59,7 +59,7 @@ it('the avatar-characters endpoint will return all of the avatar characters',asy
             id: 8,
             name:'Momo',
             element: 'Air',
-            img: 'https://media4.giphy.com/media/hfT4eNf5EXeuY/giphy.gif',
+            img: 'https://pbs.twimg.com/media/Eb78V98WsAU4-4G.png',
             title: 'Lemur' 
         }, 
     ]
