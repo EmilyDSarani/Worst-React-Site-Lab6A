@@ -14,4 +14,4 @@ Suki- https://comicvine1.cbsistatic.com/uploads/scale_super/11138/111385676/7019
 
 Appa-https://preview.redd.it/nx50st82y8351.png?auto=webp&s=f31cdd2db86f73ee5245bf8462fa7df187119254
 
-Momo-https://64.media.tumblr.com/78975bfb43e67c5fc550c6c3b9f9a944/tumblr_oywl14JF8m1uprngpo1_400.gifv
+Momo-https://pbs.twimg.com/media/Eb78V98WsAU4-4G.png

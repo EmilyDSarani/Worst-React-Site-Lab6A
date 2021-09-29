@@ -52,7 +52,7 @@ const myAvatar = [
     id: 8,
     name:'Momo',
     element: 'Air',
-    img: 'https://64.media.tumblr.com/78975bfb43e67c5fc550c6c3b9f9a944/tumblr_oywl14JF8m1uprngpo1_400.gifv',
+    img: 'https://pbs.twimg.com/media/Eb78V98WsAU4-4G.png',
     title: 'Lemur' 
 }, 
 ]
